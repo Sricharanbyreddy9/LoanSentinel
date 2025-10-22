@@ -262,7 +262,7 @@ In short — it’s a complete AI + full-stack workflow showing how to link
 machine learning, backend APIs, databases, and a real-time frontend.
 
 🧾 Author
-Sri Charan Byreddy (Ranadeep Mahendra)
+Sri Charan Byreddy 
 Full Stack Software Engineer | AI, ML, and Cloud Systems
 ---
 
