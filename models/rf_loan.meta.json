@@ -1,0 +1,28 @@
+{
+  "features": [
+    "income",
+    "credit_score",
+    "loan_amount",
+    "tenure_months",
+    "dti"
+  ],
+  "label": "risk",
+  "metrics": {
+    "auc": 0.9561213214384374,
+    "accuracy": 0.96,
+    "confusion_matrix": [
+      [
+        542,
+        20
+      ],
+      [
+        20,
+        418
+      ]
+    ]
+  },
+  "data_source": "synthetic",
+  "random_seed": 42,
+  "model_type": "RandomForestClassifier",
+  "model_path": "C:\\Projects\\Loan Risk System\\models\\rf_loan.joblib"
+}
